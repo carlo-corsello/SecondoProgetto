@@ -1,2 +1,1 @@
-# SecondoProgetto
-Secondo progetto in cui viene utilizzata la Logistic Regression per allenare un modello per la previsione del tumore al seno
+In questo secondo progetto siamo stati chiamati ad allenare un modello utilizzando la regressione logistica. Iniziando con un dataset fornitoci,abbiamo scritto il codice python per l'addestramento , valutato le performance e successivamente creato una presentazione per esporre i nostri risultati.
